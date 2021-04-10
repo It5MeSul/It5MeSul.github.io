@@ -1,0 +1,29 @@
+h1{
+	text-align: center;
+	font-family: 'Courier New';
+	color: blueviolet;
+	background-color: white;
+}
+h2{
+	text-align: left;
+	color: blue;
+	font-family: 'Courier New';
+	background-color: white;
+}
+body{
+	background-image: url("background.jpg");
+}
+b#me{
+	text-align: right;
+	font-family: 'Courier New';
+	color: white;
+	background-color: black;
+	font-size: 48;
+}
+b#ammi{
+	text-align: left;
+	font-family: 'Courier New';
+	color: white;
+	background-color: black;
+	font-size: 48;
+}
